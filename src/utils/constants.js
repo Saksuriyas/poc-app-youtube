@@ -34,9 +34,9 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
+export const demoThumbnailUrl = 'https://i.imgur.com/MMgAxEr.jpeg';
+export const demoChannelUrl = '/@Theghostradio';
+export const demoVideoUrl = '/58nkqv8Pm9k';
+export const demoChannelTitle = 'Tee Yod';
+export const demoVideoTitle = 'The Ghost Radio - Tee Yod | RapidAPI';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
